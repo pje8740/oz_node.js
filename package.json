@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "npm 공부하기 라는 문자열을 console로 표시하는 패키지",
   "main": "npm.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node npm.js"
