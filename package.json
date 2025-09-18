@@ -1,0 +1,17 @@
+{
+  "name": "npm_node",
+  "version": "1.0.0",
+  "description": "npm 공부하기 라는 문자열을 console로 표시하는 패키지",
+  "main": "npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node npm.js"
+  },
+  "author": "PJE <pje8740@cu.ac.kr",
+  "license": "ISC / MIT",
+  "keywords": [
+    "npm",
+    "javaScript",
+    "node"
+  ]
+}
